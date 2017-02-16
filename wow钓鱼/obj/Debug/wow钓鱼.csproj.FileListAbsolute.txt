@@ -1,0 +1,13 @@
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\bin\Debug\wow钓鱼.exe.config
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\bin\Debug\wow钓鱼.exe
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\bin\Debug\wow钓鱼.pdb
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\obj\Debug\wow钓鱼.Form1.resources
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\obj\Debug\wow钓鱼.Properties.Resources.resources
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\obj\Debug\wow钓鱼.csproj.GenerateResource.Cache
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\obj\Debug\wow钓鱼.exe
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\obj\Debug\wow钓鱼.pdb
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\bin\Debug\myClassLibrary.dll
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\bin\Debug\myClassLibrary.pdb
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hercules\Desktop\极客学院作业\006\wow钓鱼\wow钓鱼\obj\Debug\wow钓鱼.csprojResolveAssemblyReference.cache
